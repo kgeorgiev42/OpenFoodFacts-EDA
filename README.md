@@ -1,10 +1,10 @@
 # OpenFoodFacts-EDA
 ## Data tidying, cleaning, modelling and exploration of the OpenFoodFacts dataset.
 
-This project is made as part of the exam for the Data Science 2018 [SoftUni](softuni.bg) course.
+This project is made as part of the exam for the Data Science 2018 [SoftUni](https://softuni.bg) course.
 
 ### Requirements
-- The [Anaconda 3](anaconda.com) package or higher with Python v3.6.x or higher and Jupyter Notebook.
+- The [Anaconda 3](https://anaconda.com) package or higher with Python v3.6.x or higher and Jupyter Notebook.
 
 - The packages that come with Python 3, which include:
 
