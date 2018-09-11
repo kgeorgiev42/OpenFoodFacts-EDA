@@ -1,0 +1,243 @@
+beverage_category,product_name,beverage_prep,calories,fat_g,carbohydrates_g,proteins_g
+Coffee,Brewed Coffee,Short,3,0.1,5.0,0.3
+Coffee,Brewed Coffee,Tall,4,0.1,10.0,0.5
+Coffee,Brewed Coffee,Grande,5,0.1,10.0,1.0
+Coffee,Brewed Coffee,Venti,5,0.1,10.0,1.0
+Classic Espresso Drinks,Caffè Latte,Short Nonfat Milk,70,0.1,75.0,6.0
+Classic Espresso Drinks,Caffè Latte,2% Milk,100,3.5,85.0,6.0
+Classic Espresso Drinks,Caffè Latte,Soymilk,70,2.5,65.0,5.0
+Classic Espresso Drinks,Caffè Latte,Tall Nonfat Milk,100,0.2,120.0,10.0
+Classic Espresso Drinks,Caffè Latte,2% Milk,150,6.0,135.0,10.0
+Classic Espresso Drinks,Caffè Latte,Soymilk,110,4.5,105.0,8.0
+Classic Espresso Drinks,Caffè Latte,Grande Nonfat Milk,130,0.3,150.0,13.0
+Classic Espresso Drinks,Caffè Latte,2% Milk,190,7.0,170.0,12.0
+Classic Espresso Drinks,Caffè Latte,Soymilk,150,5.0,130.0,10.0
+Classic Espresso Drinks,Caffè Latte,Venti Nonfat Milk,170,0.4,190.0,16.0
+Classic Espresso Drinks,Caffè Latte,2% Milk,240,9.0,220.0,16.0
+Classic Espresso Drinks,Caffè Latte,Soymilk,190,7.0,170.0,13.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Short Nonfat Milk,110,1.5,60.0,7.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),2% Milk,130,4.0,70.0,6.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Soymilk,110,3.5,55.0,6.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Tall Nonfat Milk,170,2.0,100.0,10.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),2% Milk,200,6.0,115.0,10.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Soymilk,180,5.0,85.0,9.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Grande Nonfat Milk,220,2.5,125.0,13.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),2% Milk,260,8.0,140.0,13.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Soymilk,230,7.0,105.0,11.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Venti Nonfat Milk,280,3.0,160.0,17.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),2% Milk,340,11.0,180.0,17.0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Soymilk,290,9.0,140.0,14.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Short Nonfat Milk,100,0.1,70.0,6.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),2% Milk,130,3.5,80.0,6.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Soymilk,110,2.5,60.0,5.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Tall Nonfat Milk,150,0.2,110.0,9.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),2% Milk,200,5.0,125.0,9.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Soymilk,160,4.0,95.0,7.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Grande Nonfat Milk,200,0.3,140.0,12.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),2% Milk,250,6.0,150.0,12.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Soymilk,210,5.0,120.0,9.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Venti Nonfat Milk,250,0.3,180.0,15.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),2% Milk,320,9.0,200.0,15.0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Soymilk,270,7.0,160.0,12.0
+Classic Espresso Drinks,Caffè Americano,Short,5,0.0,5.0,0.4
+Classic Espresso Drinks,Caffè Americano,Tall,10,0.0,10.0,1.0
+Classic Espresso Drinks,Caffè Americano,Grande,15,0.0,15.0,1.0
+Classic Espresso Drinks,Caffè Americano,Venti,25,0.0,15.0,1.0
+Classic Espresso Drinks,Cappuccino,Short Nonfat Milk,50,0.1,60.0,5.0
+Classic Espresso Drinks,Cappuccino,2% Milk,80,3.0,70.0,5.0
+Classic Espresso Drinks,Cappuccino,Soymilk,50,1.5,40.0,3.0
+Classic Espresso Drinks,Cappuccino,Tall Nonfat Milk,60,0.1,70.0,6.0
+Classic Espresso Drinks,Cappuccino,2% Milk,90,3.5,80.0,6.0
+Classic Espresso Drinks,Cappuccino,Soymilk,70,3.0,65.0,5.0
+Classic Espresso Drinks,Cappuccino,Grande Nonfat Milk,80,0.2,90.0,8.0
+Classic Espresso Drinks,Cappuccino,2% Milk,120,4.0,100.0,8.0
+Classic Espresso Drinks,Cappuccino,Soymilk,100,3.5,80.0,7.0
+Classic Espresso Drinks,Cappuccino,Venti Nonfat Milk,110,0.2,120.0,10.0
+Classic Espresso Drinks,Cappuccino,2% Milk,150,6.0,135.0,10.0
+Classic Espresso Drinks,Cappuccino,Soymilk,120,4.5,110.0,9.0
+Classic Espresso Drinks,Espresso,Solo,5,0.0,0.0,0.4
+Classic Espresso Drinks,Espresso,Doppio,10,0.0,1.0,1.0
+Classic Espresso Drinks,Skinny Latte (Any Flavour),Short Nonfat Milk,60,0.1,80.0,6.0
+Classic Espresso Drinks,Skinny Latte (Any Flavour),Tall Nonfat Milk,100,0.2,125.0,9.0
+Classic Espresso Drinks,Skinny Latte (Any Flavour),Grande Nonfat Milk,120,0.3,160.0,12.0
+Classic Espresso Drinks,Skinny Latte (Any Flavour),Venti Nonfat Milk,160,0.3,200.0,15.0
+Signature Espresso Drinks,Caramel Macchiato,Short Nonfat Milk,100,1.0,70.0,6.0
+Signature Espresso Drinks,Caramel Macchiato,2% Milk,120,4.0,80.0,5.0
+Signature Espresso Drinks,Caramel Macchiato,Soymilk,100,3.0,60.0,4.0
+Signature Espresso Drinks,Caramel Macchiato,Tall Nonfat Milk,140,1.0,105.0,8.0
+Signature Espresso Drinks,Caramel Macchiato,2% Milk,180,5.0,115.0,8.0
+Signature Espresso Drinks,Caramel Macchiato,Soymilk,150,4.5,90.0,7.0
+Signature Espresso Drinks,Caramel Macchiato,Grande Nonfat Milk,190,1.0,130.0,11.0
+Signature Espresso Drinks,Caramel Macchiato,2% Milk,240,7.0,150.0,10.0
+Signature Espresso Drinks,Caramel Macchiato,Soymilk,200,5.0,115.0,9.0
+Signature Espresso Drinks,Caramel Macchiato,Venti Nonfat Milk,240,1.0,170.0,13.0
+Signature Espresso Drinks,Caramel Macchiato,2% Milk,300,8.0,180.0,13.0
+Signature Espresso Drinks,Caramel Macchiato,Soymilk,250,7.0,140.0,11.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Short Nonfat Milk,180,3.0,120.0,7.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),2% Milk,200,6.0,125.0,7.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Soymilk,180,5.0,110.0,6.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Tall Nonfat Milk,270,4.5,190.0,12.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),2% Milk,310,9.0,200.0,11.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Soymilk,280,8.0,170.0,10.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Grande Nonfat Milk,350,6.0,240.0,15.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),2% Milk,400,11.0,250.0,15.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Soymilk,370,10.0,220.0,13.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Venti Nonfat Milk,450,7.0,310.0,19.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),2% Milk,510,15.0,330.0,19.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Soymilk,460,13.0,290.0,16.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Short Nonfat Milk,130,1.5,70.0,7.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),2% Milk,150,4.5,80.0,7.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Soymilk,130,3.5,60.0,6.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Tall Nonfat Milk,190,2.0,110.0,11.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),2% Milk,230,7.0,120.0,10.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Soymilk,200,6.0,95.0,9.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Grande Nonfat Milk,240,2.5,140.0,14.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),2% Milk,290,9.0,160.0,14.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Soymilk,250,7.0,125.0,12.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Venti Nonfat Milk,320,3.0,180.0,18.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),2% Milk,380,11.0,200.0,17.0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Soymilk,330,9.0,160.0,15.0
+Signature Espresso Drinks,Caramel Apple Spice (Without Whipped Cream),Short,140,0.0,10.0,0.0
+Signature Espresso Drinks,Caramel Apple Spice (Without Whipped Cream),Tall,210,0.0,15.0,0.0
+Signature Espresso Drinks,Caramel Apple Spice (Without Whipped Cream),Grande,280,0.0,20.0,0.0
+Signature Espresso Drinks,Caramel Apple Spice (Without Whipped Cream),Venti,360,0.0,25.0,0.0
+Tazo® Tea Drinks,Tazo® Tea,Short,0,0.0,0.0,0.0
+Tazo® Tea Drinks,Tazo® Tea,Tall,0,0.0,0.0,0.0
+Tazo® Tea Drinks,Tazo® Tea,Grande,0,0.0,0.0,0.0
+Tazo® Tea Drinks,Tazo® Tea,Venti,0,0.0,0.0,0.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Short Nonfat Milk,100,0.1,50.0,4.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,2% Milk,120,2.0,55.0,4.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Soymilk,110,1.5,45.0,3.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Tall Nonfat Milk,160,0.2,80.0,6.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,2% Milk,190,3.5,90.0,6.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Soymilk,160,2.5,70.0,5.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Grande Nonfat Milk,210,0.2,105.0,8.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,2% Milk,240,4.5,115.0,8.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Soymilk,220,3.5,90.0,6.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Venti Nonfat Milk,260,0.3,135.0,10.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,2% Milk,310,6.0,150.0,10.0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Soymilk,280,4.5,115.0,8.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Short Nonfat Milk,130,0.2,85.0,7.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,2% Milk,170,4.0,95.0,7.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Soymilk,140,3.0,70.0,6.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Tall Nonfat Milk,210,0.4,125.0,11.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,2% Milk,260,6.0,140.0,10.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Soymilk,230,4.5,110.0,9.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Grande Nonfat Milk,290,0.5,160.0,14.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,2% Milk,350,8.0,180.0,14.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Soymilk,310,6.0,140.0,11.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Venti Nonfat Milk,370,0.5,200.0,18.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,2% Milk,450,10.0,230.0,17.0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Soymilk,390,8.0,180.0,14.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Short Nonfat Milk,80,0.1,45.0,4.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,90,2.0,50.0,3.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,80,1.5,40.0,3.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Tall Nonfat Milk,120,0.1,65.0,5.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,140,3.0,75.0,5.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,130,2.5,60.0,4.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Grande Nonfat Milk,150,0.2,85.0,7.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,190,4.0,95.0,7.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,170,3.5,80.0,6.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Venti Nonfat Milk,190,0.2,110.0,9.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,230,5.0,125.0,9.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,210,4.0,100.0,7.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Short Nonfat Milk,80,0.1,45.0,4.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,90,2.0,50.0,3.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,80,1.5,40.0,3.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tall Nonfat Milk,120,0.1,65.0,5.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,140,3.0,75.0,5.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,130,2.5,60.0,4.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Grande Nonfat Milk,150,0.2,85.0,7.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,190,4.0,95.0,7.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,170,3.5,80.0,6.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Venti Nonfat Milk,190,0.2,110.0,9.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,230,5.0,125.0,9.0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,210,4.0,100.0,7.0
+Shaken Iced Beverages,Iced Brewed Coffee (With Classic Syrup),Tall,60,0.0,4.0,0.2
+Shaken Iced Beverages,Iced Brewed Coffee (With Classic Syrup),Grande,90,0.1,5.0,0.3
+Shaken Iced Beverages,Iced Brewed Coffee (With Classic Syrup),Venti,130,0.1,5.0,0.4
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Tall Nonfat Milk,80,0.1,25.0,2.0
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),2% Milk,90,1.0,25.0,2.0
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,80,1.0,20.0,2.0
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Grande Nonfat Milk,110,0.1,30.0,2.0
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),2% Milk,120,1.5,35.0,2.0
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,110,1.0,30.0,2.0
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Venti Nonfat Milk,160,0.1,50.0,4.0
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),2% Milk,180,2.0,55.0,4.0
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,170,1.5,45.0,3.0
+Shaken Iced Beverages,Shaken Iced Tazo® Tea (With Classic Syrup),Tall,60,0.0,0.0,0.0
+Shaken Iced Beverages,Shaken Iced Tazo® Tea (With Classic Syrup),Grande,80,0.0,0.0,0.0
+Shaken Iced Beverages,Shaken Iced Tazo® Tea (With Classic Syrup),Venti,120,0.0,0.0,0.0
+Shaken Iced Beverages,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Tall,100,0.0,0.0,0.1
+Shaken Iced Beverages,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Grande,130,0.0,0.0,0.1
+Shaken Iced Beverages,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Venti,190,0.0,0.0,0.1
+Smoothies,Banana Chocolate Smoothie,Grande Nonfat Milk,280,2.5,150.0,20.0
+Smoothies,Banana Chocolate Smoothie,2% Milk,300,5.0,160.0,20.0
+Smoothies,Banana Chocolate Smoothie,Soymilk,290,4.5,150.0,19.0
+Smoothies,Orange Mango Banana Smoothie,Grande Nonfat Milk,260,1.0,120.0,16.0
+Smoothies,Orange Mango Banana Smoothie,2% Milk,270,1.5,125.0,16.0
+Smoothies,Orange Mango Banana Smoothie,Soymilk,270,1.5,120.0,15.0
+Smoothies,Strawberry Banana Smoothie,Grande Nonfat Milk,290,1.0,125.0,16.0
+Smoothies,Strawberry Banana Smoothie,2% Milk,290,2.0,125.0,16.0
+Smoothies,Strawberry Banana Smoothie,Soymilk,290,2.0,120.0,16.0
+Frappuccino® Blended Coffee,Coffee,Tall Nonfat Milk,160,0.1,160.0,3.0
+Frappuccino® Blended Coffee,Coffee,Whole Milk,180,2.5,160.0,3.0
+Frappuccino® Blended Coffee,Coffee,Soymilk,160,1.5,150.0,2.0
+Frappuccino® Blended Coffee,Coffee,Grande Nonfat Milk,220,0.1,210.0,4.0
+Frappuccino® Blended Coffee,Coffee,Whole Milk,240,3.0,220.0,3.0
+Frappuccino® Blended Coffee,Coffee,Soymilk,220,1.5,210.0,3.0
+Frappuccino® Blended Coffee,Coffee,Venti Nonfat Milk,310,0.1,300.0,6.0
+Frappuccino® Blended Coffee,Coffee,Whole Milk,350,5.0,300.0,5.0
+Frappuccino® Blended Coffee,Coffee,Soymilk,310,2.5,300.0,5.0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Tall Nonfat Milk,180,0.5,150.0,3.0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Whole Milk,200,3.0,160.0,3.0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Soymilk,180,2.0,150.0,3.0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Grande Nonfat Milk,260,1.0,220.0,4.0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Whole Milk,290,4.0,220.0,4.0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Soymilk,260,2.5,220.0,4.0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Venti Nonfat Milk,340,1.0,300.0,7.0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Whole Milk,390,6.0,300.0,6.0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Soymilk,350,3.0,290.0,6.0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Tall Nonfat Milk,180,0.1,160.0,3.0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Whole Milk,200,2.5,160.0,3.0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Soymilk,180,1.5,150.0,2.0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Grande Nonfat Milk,280,0.1,220.0,4.0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Whole Milk,280,3.5,220.0,3.0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Soymilk,260,1.5,220.0,3.0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Venti Nonfat Milk,330,0.1,290.0,5.0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Whole Milk,370,5.0,300.0,5.0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Soymilk,340,2.5,290.0,5.0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Tall Nonfat Milk,220,3.0,170.0,4.0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Whole Milk,240,5.0,170.0,4.0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Soymilk,220,4.0,170.0,3.0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Grande Nonfat Milk,310,4.0,250.0,5.0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Whole Milk,340,7.0,250.0,5.0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Soymilk,310,6.0,240.0,4.0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Venti Nonfat Milk,420,5.0,340.0,7.0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Whole Milk,460,10.0,340.0,7.0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Soymilk,430,8.0,330.0,6.0
+Frappuccino® Light Blended Coffee,Coffee,Tall Nonfat Milk,90,0.1,160.0,3.0
+Frappuccino® Light Blended Coffee,Coffee,Grande Nonfat Milk,120,0.1,210.0,3.0
+Frappuccino® Light Blended Coffee,Coffee,Venti Nonfat Milk,160,0.1,270.0,5.0
+Frappuccino® Light Blended Coffee,Mocha,Tall Nonfat Milk,110,0.5,150.0,3.0
+Frappuccino® Light Blended Coffee,Mocha,Grande Nonfat Milk,150,1.0,200.0,4.0
+Frappuccino® Light Blended Coffee,Mocha,Venti Nonfat Milk,210,1.0,280.0,6.0
+Frappuccino® Light Blended Coffee,Caramel,Tall Nonfat Milk,100,0.1,140.0,3.0
+Frappuccino® Light Blended Coffee,Caramel,Grande Nonfat Milk,150,0.1,200.0,3.0
+Frappuccino® Light Blended Coffee,Caramel,Venti Nonfat Milk,200,0.1,270.0,5.0
+Frappuccino® Light Blended Coffee,Java Chip,Tall Nonfat Milk,150,3.0,170.0,4.0
+Frappuccino® Light Blended Coffee,Java Chip,Grande Nonfat Milk,220,4.0,240.0,5.0
+Frappuccino® Light Blended Coffee,Java Chip,Venti Nonfat Milk,290,5.0,320.0,7.0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Tall Nonfat Milk,170,0.1,140.0,3.0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Whole Milk,190,3.0,140.0,3.0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Soymilk,170,1.5,135.0,3.0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Grande Nonfat Milk,230,0.2,190.0,4.0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Whole Milk,260,4.0,190.0,4.0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Soymilk,240,2.0,180.0,3.0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Venti Nonfat Milk,310,0.2,260.0,6.0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Whole Milk,350,6.0,260.0,6.0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Soymilk,320,,250.0,5.0
+Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Tall Nonfat Milk,170,0.1,160.0,4.0
+Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Whole Milk,200,3.5,160.0,3.0
+Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Soymilk,180,1.5,160.0,3.0
+Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Grande Nonfat Milk,240,0.1,230.0,5.0
