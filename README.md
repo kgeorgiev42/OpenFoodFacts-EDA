@@ -18,7 +18,7 @@ This project is made as part of the exam for the Data Science 2018 [SoftUni](htt
 - The Matplotlib [Basemap](https://matplotlib.org/basemap/) Toolkit - for map plotting
 
 ### Usage 
-Download **version 5** of the [Open Food Facts](https://www.kaggle.com/openfoodfacts/world-food-facts/version/5) dataset and place it in the 'data/' folder alongside the other datasets. This is the dataset version that I worked on, other versions don't guarantee reproducibility and some tests will most likely fail.
+Download **version 5** of the [Open Food Facts](https://www.kaggle.com/openfoodfacts/world-food-facts/version/5) dataset and place it in the 'data/' folder alongside the other datasets. *This is the dataset version that I worked on, other versions don't guarantee reproducibility and some tests will most likely fail*.
 
 ### Kaggle
 This project is also free to view, execute and modify on [Kaggle](https://www.kaggle.com/jadeblue/kernels) with no limitations.
