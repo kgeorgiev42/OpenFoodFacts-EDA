@@ -20,6 +20,9 @@ This project is made as part of the exam for the Data Science 2018 [SoftUni](htt
 ### Usage 
 Download **version 5** of the [Open Food Facts](https://www.kaggle.com/openfoodfacts/world-food-facts/version/5) dataset and place it in the 'data/' folder alongside the other datasets. This is the dataset version that I worked on, other versions don't guarantee reproducibility and some tests will most likely fail.
 
+### Kaggle
+This project is also free to view, execute and modify on [Kaggle](https://www.kaggle.com/jadeblue/kernels) with no limitations.
+
 ### Idea behind the exploration
 In an attempt to research the nutrition values of the french products and what affects them, I have chosen to compare them to fast-food products such as McDonalds - in terms of meat quality, and Starbucks - in terms of beverage quality. I will also be looking into other factors such as packaging, food additive count and whether the products contain ingredients with palm oil or not. So the main questions I'll be looking to answer are:
 
@@ -33,6 +36,3 @@ To answer these questions I have chosen to single out the three most popular and
 
 ### Project structure
 I have chosen to divide my project in three separate notebooks, in order to improve readability. The first part involves obtaining and cleaning the three datasets, as well as filtering them for EDA and finally exporting them. The second part is the core of the project and includes exploratory data analysis on the three cleaned datasets, visualizations and hypothesis testing. The final part is done just for fun - a simple logistic regression model, which will attempt to predict whether a french product contains additives or not.
-
-### Kaggle
-This project is also free to view, execute and modify on [Kaggle](https://www.kaggle.com/jadeblue/kernels).
