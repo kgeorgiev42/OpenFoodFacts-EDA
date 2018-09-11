@@ -34,3 +34,5 @@ To answer these questions I have chosen to single out the three most popular and
 ### Project structure
 I have chosen to divide my project in three separate notebooks, in order to improve readability. The first part involves obtaining and cleaning the three datasets, as well as filtering them for EDA and finally exporting them. The second part is the core of the project and includes exploratory data analysis on the three cleaned datasets, visualizations and hypothesis testing. The final part is done just for fun - a simple logistic regression model, which will attempt to predict whether a french product contains additives or not.
 
+### Kaggle
+This project is also free to view, execute and modify on [Kaggle](https://www.kaggle.com/jadeblue/kernels).
